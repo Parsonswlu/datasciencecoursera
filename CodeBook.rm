@@ -1,0 +1,251 @@
+# This is the Code Book for the Getting and Cleaning Data Course Project
+
+Activity    
+  Description of Activity occuring
+      WALKING
+      WALKING_UPSTAIRS
+      WALKING_DOWNSTAIRS
+      SITTING
+      STANDING
+      LAYING
+
+Subject   
+  Numeric representation of Subject providing data
+    1..30
+
+tBodyAcc-mean()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAcc-mean()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAcc-mean()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+  
+tBodyAcc-std()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAcc-std()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAcc-std()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tGravityAcc-mean()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tGravityAcc-mean()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tGravityAcc-mean()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tGravityAcc-std()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tGravityAcc-std()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tGravityAcc-std()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAccJerk-mean()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAccJerk-mean()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAccJerk-mean()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAccJerk-std()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAccJerk-std()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAccJerk-std()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyro-mean()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyro-mean()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyro-mean()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyro-std()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyro-std()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyro-std()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyroJerk-mean()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyroJerk-mean()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyroJerk-mean()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyroJerk-std()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyroJerk-std()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyroJerk-std()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAccMag-mean()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAccMag-std()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tGravityAccMag-mean()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tGravityAccMag-std()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAccJerkMag-mean()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyAccJerkMag-std()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyroMag-mean()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyroMag-std()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyroJerkMag-mean()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+tBodyGyroJerkMag-std()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAcc-mean()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAcc-mean()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAcc-mean()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAcc-std()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAcc-std()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAcc-std()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAcc-meanFreq()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAcc-meanFreq()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAcc-meanFreq()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccJerk-mean()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccJerk-mean()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccJerk-mean()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccJerk-std()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccJerk-std()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccJerk-std()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccJerk-meanFreq()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccJerk-meanFreq()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccJerk-meanFreq()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyGyro-mean()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyGyro-mean()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyGyro-mean()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyGyro-std()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyGyro-std()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyGyro-std()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyGyro-meanFreq()-X	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyGyro-meanFreq()-Y	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyGyro-meanFreq()-Z	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccMag-mean()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccMag-std()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyAccMag-meanFreq()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyBodyAccJerkMag-mean()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyBodyAccJerkMag-std()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyBodyAccJerkMag-meanFreq()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyBodyGyroMag-mean()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyBodyGyroMag-std()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyBodyGyroMag-meanFreq()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyBodyGyroJerkMag-mean()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyBodyGyroJerkMag-std()	
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
+
+fBodyBodyGyroJerkMag-meanFreq()
+  Mean of the gyrometer data for a particular Subject performing a particular Activity
