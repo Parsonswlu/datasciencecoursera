@@ -9,6 +9,7 @@ The 'dplyr' library was imported for ease of extracting an independent 'tidy' da
 This package makes use of functions "group_by", "summarise_each" and "arrange"
 
 A summary of the steps taken to produce the code is as follows:
+
 Step 1a: Read in the raw training and test data ("X_train.txt" and "X_test.txt" respectively), applying the condition 
 colclasses="numeric" to coerce the values to numeric. 
 Step 1b: Merge the datasets using the rbind() function - this is done by simply adding the rows of the testing data to the
